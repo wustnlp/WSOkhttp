@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WSOkhttp</string>
+    <string name="lon">经度</string>
+    <string name="lat">纬度</string>
+    <string name="hint">相关描述</string>
+    <string name="select">查询</string>
+    <string name="download">点击下载</string>
+</resources>
